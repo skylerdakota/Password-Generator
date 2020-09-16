@@ -2,7 +2,7 @@
 
 [Site](https://skylerdakota.github.io/Password-Generator/)
 
-![Main Page](assets/images/passwordgenerator.png)
+![Main Page](Assets/images/passwordgenerator.png)
 
 # 03 JavaScript: Password Generator
 
