@@ -1,6 +1,6 @@
 # Password-Generator
 
-[Site](https://skylerdakota.github.io/Password-Generator/)
+[Password Generator](https://skylerdakota.github.io/Password-Generator/)
 
 ![Main Page](Assets/images/passwordgenerator.png)
 
